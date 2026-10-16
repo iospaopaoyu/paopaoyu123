@@ -1,0 +1,11 @@
+Package: com.hai6duihuanma.ztts
+Name: ZhuTiTouSong
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: 微信主题投送插件（长按消息菜单投送，支持主题TB/气泡盒子BB/SJ三类卡密）
+Maintainer: hao6
+Author: hao6
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13.0)
+Priority: optional
+Homepage: https://theme.25mao.com
